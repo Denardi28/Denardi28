@@ -3,11 +3,10 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 Atualmente eu estou est
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--  <div>
+- 🌱 Atualmente eu estou estudando Desenvolvimento de sistemas no Senai Italo Bologna 
+- 💬 Estou aprendendo Python
+- 😄 Pronouns: ele/dele
+  <div>
    <a href="https://beacons.ai/Denardi28">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Denardi28&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
  </div>
