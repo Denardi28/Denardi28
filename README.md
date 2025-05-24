@@ -34,7 +34,7 @@
   ## REDES SOCIAIS PRA CONTATO!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui.denardi/)
 <a href = "mailto:guidenardi28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href = "https://www.linkedin.com/in/guilherme-denardi-a2745834b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/guilherme-denardi-a2745834b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  ## 📊 ESTATÍSTICAS DA CONTA!
   <div>
    <a href="https://beacons.ai/Denardi28">
