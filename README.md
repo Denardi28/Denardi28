@@ -9,7 +9,7 @@
 ## 🧑‍💻**SEJA BEM VINDO!!! EU SOU O GUILHERME DENARDI**
 
 
-- 🌱 Atualmente eu estou estudando cursando o Ensino Médio no SESI Renato Kenji Nakaya
+- 🌱 Atualmente eu estou cursando o Ensino Médio no SESI Renato Kenji Nakaya
 - 👨‍🎓 Atualmente eu estou estudando Desenvolvimento de sistemas no SENAI Italo Bologna
 - 🗓️ Tenho 16 anos
   
