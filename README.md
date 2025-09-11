@@ -14,7 +14,7 @@
 - 🗓️ Tenho 16 anos
   
 
-  ## LINGUAGENS APRENDIDAS
+## LINGUAGENS APRENDIDAS
 <img 
     align="" 
     alt="Python" 
