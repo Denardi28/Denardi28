@@ -31,7 +31,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
     />
- <img 
+  <img 
     align="" 
     alt="html" 
     title="Html"
@@ -45,7 +45,8 @@
     title="Css"
     width="26px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/css-original.svg"
+    src="
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
     />
   ## REDES SOCIAIS PRA CONTATO!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui.denardi/)
