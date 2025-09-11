@@ -33,16 +33,16 @@
     />
  <img 
     align="" 
-    alt="C" 
-    title="C"
+    alt="html" 
+    title="Html"
     width="26px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/html-original.svg"
     />
  <img 
     align="" 
-    alt="C" 
-    title="C"
+    alt="Css" 
+    title="Css"
     width="26px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/css-original.svg"
