@@ -60,9 +60,9 @@
 <a href = "mailto:guidenardi28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href = "https://www.linkedin.com/in/guilherme-denardi-a2745834b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  ## 📊 ESTATÍSTICAS DA CONTA!
-  <div>
-   <a href="https://beacons.ai/Denardi28">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denardi28&layout=compact&langs_count=16&theme=dracula"/>
- </div>
+  <a href="https://beacons.ai/Denardi28">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denardi28&layout=compact&langs_count=16&theme=dracula" />
+</a>
+
 
 
