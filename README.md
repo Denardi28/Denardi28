@@ -61,7 +61,7 @@
 <a href = "https://www.linkedin.com/in/guilherme-denardi-a2745834b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Denardi28&show_icons=true&theme=radical)
+
 
 
 
