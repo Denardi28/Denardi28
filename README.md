@@ -57,6 +57,14 @@
     />
     <img 
     align="" 
+    alt="SQL" 
+    title="SQL"
+    width="26px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  
+    />
+    <img 
+    align="" 
     alt="Javascript" 
     title="Javascript"
     width="26px" 
